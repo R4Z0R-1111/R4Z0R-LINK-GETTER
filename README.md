@@ -4,13 +4,13 @@
 This is a Simple Command Line Tool, to get all the Links from a specific Website! 
 It checks the HTML Document for any [a@href] and prints out the inner HTML of any Link Found
 
-#How To Use
+### How To Use
 
 -Open EXE inside the /bin/release
 -Type in the Desired URL
 -Wait for the Tool to finish the Process
 
-Currently the tool is doing: 
+### Currently the tool is doing: 
 
 - [X] Checking for the Current Status of the Website
 - [x] Calculating the Website Loading Time
