@@ -6,9 +6,9 @@ It checks the HTML Document for any [a@href] and prints out the inner HTML of an
 
 ### How To Use
 
--Open EXE inside the /bin/release
--Type in the Desired URL
--Wait for the Tool to finish the Process
+- Open EXE inside the /bin/release
+- Type in the Desired URL
+- Wait for the Tool to finish the Process
 
 ### Currently the tool is doing: 
 
