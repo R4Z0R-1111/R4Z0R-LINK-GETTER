@@ -19,4 +19,4 @@ It checks the HTML Document for any [a@href] and prints out the inner HTML of an
 
 ![Alt text](https://i.ibb.co/NscjzRH/screenshot-r4z0r-link-grabber.png)
 
-# If you have any Questions/Suggestions reach out to me on Discord: #R4Z0R-1111
+## If you have any Questions/Suggestions reach out to me on Discord: #R4Z0R-1111
